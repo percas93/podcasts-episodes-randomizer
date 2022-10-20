@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn-primary {
+  font-size: 20px;
+  position: absolute;
+  bottom: 25px;
+}
